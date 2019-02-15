@@ -1,0 +1,10 @@
+E:\Code\IDNumberInquiry\IDNumberInquiry\bin\Debug\IDNumberInquiry.exe.config
+E:\Code\IDNumberInquiry\IDNumberInquiry\bin\Debug\IDNumberInquiry.exe
+E:\Code\IDNumberInquiry\IDNumberInquiry\bin\Debug\IDNumberInquiry.pdb
+E:\Code\IDNumberInquiry\IDNumberInquiry\obj\Debug\IDNumberInquiry.csprojAssemblyReference.cache
+E:\Code\IDNumberInquiry\IDNumberInquiry\obj\Debug\IDNumberInquiry.IDNumberInquiry.resources
+E:\Code\IDNumberInquiry\IDNumberInquiry\obj\Debug\IDNumberInquiry.Properties.Resources.resources
+E:\Code\IDNumberInquiry\IDNumberInquiry\obj\Debug\IDNumberInquiry.csproj.GenerateResource.cache
+E:\Code\IDNumberInquiry\IDNumberInquiry\obj\Debug\IDNumberInquiry.csproj.CoreCompileInputs.cache
+E:\Code\IDNumberInquiry\IDNumberInquiry\obj\Debug\IDNumberInquiry.exe
+E:\Code\IDNumberInquiry\IDNumberInquiry\obj\Debug\IDNumberInquiry.pdb
