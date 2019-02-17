@@ -71,6 +71,7 @@
             this.IDNumberTextBox.Name = "IDNumberTextBox";
             this.IDNumberTextBox.Size = new System.Drawing.Size(459, 47);
             this.IDNumberTextBox.TabIndex = 2;
+            this.IDNumberTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.IDNumberTextBox_KeyPress);
             // 
             // placeLabel
             // 
@@ -115,7 +116,6 @@
             this.ageLabel.Size = new System.Drawing.Size(77, 39);
             this.ageLabel.TabIndex = 6;
             this.ageLabel.Text = "年龄";
-            this.ageLabel.Click += new System.EventHandler(this.ageLabel_Click);
             // 
             // checkButton
             // 
@@ -127,6 +127,7 @@
             this.checkButton.TabIndex = 7;
             this.checkButton.Text = "校验";
             this.checkButton.UseVisualStyleBackColor = false;
+            this.checkButton.Click += new System.EventHandler(this.checkButton_Click);
             // 
             // placeMessageLabel
             // 
@@ -192,6 +193,7 @@
             this.Controls.Add(this.titleLabel);
             this.Name = "IDNumberInquiry";
             this.Text = "IDNumberInquiry";
+            this.Load += new System.EventHandler(this.IDNumberInquiry_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
